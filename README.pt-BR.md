@@ -18,7 +18,7 @@
 
 Sou desenvolvedor full stack em Curitiba, com foco em automação, dados e IA. Construo sistemas que substituem trabalho manual e repetitivo.
 
-Desde março de 2025 sou o desenvolvedor principal das plataformas internas da **L8 Group**, empresa de tecnologia e energia solar. Lá cuido das áreas de vendas, compras e inteligência de negócios: levanto requisitos com as áreas, desenho, desenvolvo, implanto e mantenho os sistemas.
+Desde março de 2025 sou desenvolvedor full stack na **L8 Group**, empresa de tecnologia e energia solar. Lá cuido das áreas de vendas, compras e inteligência de negócios: levanto requisitos com as áreas, desenho, desenvolvo, implanto e mantenho os sistemas.
 
 Antes da tecnologia, passei quatro anos na área comercial e financeira, com vendas técnicas e licitações públicas. Foi ali que vi quanto da operação dependia de planilhas e de trabalho manual repetitivo. Comecei a programar para resolver isso, e até hoje parto do problema de negócio antes de escolher a tecnologia.
 

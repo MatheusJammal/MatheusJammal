@@ -18,7 +18,7 @@
 
 I'm a full stack developer from Curitiba, Brazil, focused on automation, data and AI. I build systems that replace manual, repetitive work.
 
-Since March 2025 I've been the lead developer of the internal platforms at **L8 Group**, a technology and solar energy company. My work there covers sales, purchasing and business intelligence: I gather requirements with the business teams, then design, build, deploy and maintain the systems.
+Since March 2025 I've been a full stack developer at **L8 Group**, a technology and solar energy company. My work there covers sales, purchasing and business intelligence: I gather requirements with the business teams, then design, build, deploy and maintain the systems.
 
 Before tech, I spent four years in sales and finance, working on technical sales and public procurement. That's where I saw how much of the operation ran on spreadsheets and repetitive manual work. I started programming to fix it, and I still start from the business problem before choosing the technology.
 
