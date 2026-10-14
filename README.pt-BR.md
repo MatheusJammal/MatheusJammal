@@ -72,7 +72,7 @@ Plataforma que automatiza a participação em licitações públicas, da busca d
 - **Desempenho:** investiguei uma busca lenta com EXPLAIN ANALYZE e reescrevi a consulta para usar índices GIN, de 1,8 s para 140 ms (13× mais rápida).
 - **IA:** o Google Gemini analisa os editais, com travas de custo no servidor.
 - **Qualidade:** 329 testes com Pytest, um Dockerfile por serviço e deploy automático a cada push na `main`.
-- **Resultado:** uma proposta de 50 itens passou a ser cadastrada em menos de 5 minutos.
+- **Resultado:** uma proposta com dezenas de itens passou a ser cadastrada em menos de 5 minutos.
 
 **Stack:** Python, FastAPI, PostgreSQL, React, TypeScript, Electron, Playwright, Docker
 
