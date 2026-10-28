@@ -2,9 +2,9 @@
 <p align="center"><b>Desenvolvedor Full Stack · Construo software em torno de LLMs e automação</b></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheusjammal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/matheusjammal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:matheusagjammal@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail" /></a>
-  <a href="https://www.matheusjammal.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1A1AE5?style=for-the-badge&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.matheusjammal.com" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1A1AE5?style=for-the-badge&logoColor=white" alt="Portfólio" /></a>
 </p>
 
 <p align="center">🇧🇷 Português • <a href="README.en.md">🇺🇸 English</a></p>
